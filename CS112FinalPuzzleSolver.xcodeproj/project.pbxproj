@@ -6,10 +6,35 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		92059AD116688D88000BDC3B /* Spots.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Spots.java; sourceTree = "<group>"; };
+		921B332316668B4500BB87D8 /* solver.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = solver.java; sourceTree = "<group>"; };
+		921B33271667AB6100BB87D8 /* sudokuSpots.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = sudokuSpots.java; sourceTree = "<group>"; };
+		921B3331166858C200BB87D8 /* puzzleInput.dat */ = {isa = PBXFileReference; lastKnownFileType = text; path = puzzleInput.dat; sourceTree = "<group>"; };
+		922C77291669384D00918177 /* Game.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Game.java; sourceTree = "<group>"; };
+		922C772B1669386A00918177 /* Sudoku.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Sudoku.java; sourceTree = "<group>"; };
+		922C772C16699D4A00918177 /* GameFactory.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = GameFactory.java; sourceTree = "<group>"; };
+		922C77301669A1F100918177 /* KenKen.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = KenKen.java; sourceTree = "<group>"; };
+		922C77311669A55F00918177 /* KenKenInput.dat */ = {isa = PBXFileReference; lastKnownFileType = text; path = KenKenInput.dat; sourceTree = "<group>"; };
+		922C77321669ABB300918177 /* Cage.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = Cage.java; sourceTree = "<group>"; };
+		922C77331669AC8700918177 /* KenKenSpots.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = KenKenSpots.java; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		921B331A16668B0200BB87D8 = {
 			isa = PBXGroup;
 			children = (
+				921B332316668B4500BB87D8 /* solver.java */,
+				922C77301669A1F100918177 /* KenKen.java */,
+				922C77331669AC8700918177 /* KenKenSpots.java */,
+				922C77321669ABB300918177 /* Cage.java */,
+				922C772C16699D4A00918177 /* GameFactory.java */,
+				922C77291669384D00918177 /* Game.java */,
+				922C772B1669386A00918177 /* Sudoku.java */,
+				92059AD116688D88000BDC3B /* Spots.java */,
+				921B3331166858C200BB87D8 /* puzzleInput.dat */,
+				921B33271667AB6100BB87D8 /* sudokuSpots.java */,
+				922C77311669A55F00918177 /* KenKenInput.dat */,
 			);
 			sourceTree = "<group>";
 		};
